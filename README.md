@@ -1,4 +1,5 @@
-### Hi there 👋
+- I'm a Professor at Hanyang University.
+- I'm mostly working on computer vision and deep learning.
 
 <!--
 **cutybug/cutybug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
